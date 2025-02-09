@@ -27,6 +27,7 @@ To set up and run the project locally:
 3. Open `index.html` in a browser:
    
    open index.html  # macOS
+
    start index.html  # Windows
    
    Alternatively, use a simple HTTP server:
